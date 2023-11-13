@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Terex2/MAR",
+    "https://github.com/ZEROXITS/MAR",
 )
 BOT_USERNAME = getenv(
     "BOT_USERNAME", "GU9BOT"
